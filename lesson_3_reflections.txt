@@ -10,3 +10,7 @@ How do the diagrams help you visualize the branch structure?
 
 	By showing each commit's parent and whether commit's are reachable from one another.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	A "new" branch gets created that retains the name of the parent branch. It contains a combination of the commits into the two branches from the time of split to the time of merging. The diagram helps visualize how git does this and what previous commits are accessible.
+
