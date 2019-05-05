@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	Git creates an empty repository with no commits. Needed for creating the proper file structure to use git and github.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	It holds uncommited files seperate from the directory and repo. It allows changes to be made to these files before being committed. It forces explicit declaration of which files are going to be committed so that changes to any other files aren't committed accidentally. It speeds up the computation and download/upload time to make changes to the repo by changing only the declared files instead of all files.
+
