@@ -21,7 +21,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Upload files to a dropbox or private server.
+    Not needing to know the ins and outs of Git/Github and memorizing a bunch of commands.
+    Resolving conflicts with changed files.
+    Working on a project with many people, especially if not in constant contact with those people.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
